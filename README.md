@@ -1,2 +1,2 @@
 # zig-playground
-playing with zig
+playing with zig (it's like rust++)
